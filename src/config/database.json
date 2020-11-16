@@ -1,0 +1,18 @@
+{
+  "dev": {
+    "username": "root",
+    "password": "fliper",
+    "database": "crawler",
+    "host": "localhost",
+    "dialect": "mysql",
+    "connectionLimit": 10
+  },
+  "container": {
+    "username": "root",
+    "password": "fliper",
+    "database": "crawler",
+    "host": "10.5.0.5",
+    "dialect": "mysql",
+    "connectionLimit": 10
+  }
+}
